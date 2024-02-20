@@ -14,8 +14,8 @@ this is the menu
 
 ### menu item 1
 
-#### lettuce
+#### Chocolate ice cream
 
 - price: $100
 
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+![lettuce](assets/images/chocolate.jpg){:width="200"}
