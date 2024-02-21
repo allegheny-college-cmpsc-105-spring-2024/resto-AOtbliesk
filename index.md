@@ -22,7 +22,7 @@ As the years passed, iScream blossomed into a beloved institution, cherished for
 
 Despite its growth and success, iScream has remained true to its roots, maintaining the same warm, welcoming atmosphere that made it a neighborhood favorite from the start. Today, as Rory and Nia look back on their journey, they are filled with gratitude for the loyal patrons who have supported them every step of the way. With each scoop served, iScream continues to spread joy and sweetness, one delighted customer at a time.
 
-## <span style="color: red">Reviewa</span>
+## <span style="color: red">Reviews</span>
 
 
 
