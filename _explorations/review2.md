@@ -6,12 +6,4 @@ permalink: explorations/review2
 nav: true
 ---
 
-Lettuce can be grown with hydroponics.
-
-- TODO: pretending that you ate at the restaurant, write a
-  paragraph review as a food critic and restaurant owner.
-  - gatorgrade will check for at least 150 words.
-  - NB that something you write will be quoted later by the author
-  of the website.
-- TODO: make a link in markdown to the site that you reviewed
-- TODO: push your changes and make sure that the link works online!
+"iScream exceeded all my expectations! As a self-proclaimed ice cream connoisseur, I'm always on the hunt for the next big thing in frozen desserts, and let me tell you, iScream delivers in spades. The ambiance is charming and cozy, making it the perfect spot to indulge in a guilty pleasure or two. What truly sets them apart, though, is the quality of their ingredients. You can taste the difference with each spoonful – the creamy texture, the intense flavors, the perfect balance of sweetness. I particularly enjoyed their seasonal specials; the pumpkin spice flavor was a revelation! And don't even get me started on their handmade waffle cones – absolute perfection. Whether you're craving a classic scoop or feeling adventurous, iScream has something for everyone. Trust me, you won't be disappointed!" - Gideon DeViller
