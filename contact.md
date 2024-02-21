@@ -5,9 +5,19 @@ permalink: /contact
 nav: true
 ---
 ## Hours:
-never
+##### Monday to Friday:
+
+Open: 9:00 AM - 9:00 PM
+##### Saturday and Sunday:
+
+Open: 10:00 AM - 10:00 PM
 
 ### Contact us: 
-- TODO: fill in fake contact information for the business
-- TODO: create heading for `Hours`
-- Optional: perhaps fake address, hours, phone, reservation instructions...
+
+
+Aurora Quinlan
+a.quin@iscream.com	
+609-0261-63
+1234 Sunshine Avenue,
+Sunnyvale, CA 94085, USA
+
