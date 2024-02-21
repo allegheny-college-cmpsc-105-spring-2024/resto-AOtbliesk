@@ -6,12 +6,6 @@ permalink: explorations/review1
 nav: true
 ---
 
-Rabbits like lettuce.
+"iScream is an absolute gem! From the moment you step inside, you're greeted with warmth and a mouthwatering aroma that promises a delightful experience ahead. The variety of flavors is truly impressive, catering to every palate imaginable. I couldn't resist trying the classic favorites like chocolate fudge and vanilla bean, but I also ventured into more adventurous territory with their unique creations like lavender honey and salted caramel pretzel. Each scoop was rich, creamy, and bursting with flavor. The staff were friendly and knowledgeable, offering recommendations and samples to help me find my perfect match. Whether you're a die-hard ice cream enthusiast or just looking for a sweet treat to brighten your day, iScream is the place to be!"
 
-- TODO: pretending that you ate at the restaurant, write a
-  paragraph review as a food critic and restaurant owner.
-  - gatorgrade will check for at least 150 words.
-  - NB that something you write will be quoted later by the author
-  of the website.
-- TODO: make a link in markdown to the site that you reviewed
-- TODO: push your changes and make sure that the link works online!
+
