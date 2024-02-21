@@ -9,10 +9,6 @@ nav: true
 
 this is the menu
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
-
-### menu item 1
 
 #### Chocolate ice cream
 
