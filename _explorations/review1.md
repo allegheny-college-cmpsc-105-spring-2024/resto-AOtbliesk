@@ -1,7 +1,7 @@
 ---
 layout: post
 # : update the title inside the quotes to suit your restaurant review needs
-title: "rev 1"
+title: "Take it or leave it!"
 permalink: explorations/review1
 nav: true
 ---
