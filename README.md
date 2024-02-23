@@ -20,7 +20,7 @@ After completing this lab, you should be able to:
 
 ## 
 
-Summary of TODOs. Details are below
+Summary of . Details are below
 
 0. : in GitHub, go to settings>pages (you can add /settings/pages to the url)
    Under branch, click  `main` and then `save`. Refresh after 30 seconds to get live link!
@@ -30,10 +30,10 @@ Summary of TODOs. Details are below
 3. TODO: Submit work to GitHub using git
 4. : Update this website with content!
 5. : Submit work to GitHub using git
-6. TODO: Review your colleagues' restaurants/sports sites and write two short reviews
-7. TODO: Submit work to GitHub using git
-8. TODO: Check your analytics and make an additional post about the meaning of the data you see
-9. TODO: Submit work to GitHub using git
+6. : Review your colleagues' restaurants/sports sites and write two short reviews
+7. : Submit work to GitHub using git
+8. : Check your analytics and make an additional post about the meaning of the data you see
+9. : Submit work to GitHub using git
 
 ## How to clone your repo
 
@@ -73,10 +73,10 @@ realistic, but keep in mind that this website is viewable online.
 After Monday the 19th, look for `assigned review` document in Discord.
 There you will find the websites that you need to review. Look at the sites and pretend
 that you have eaten at that restaurant. In the `_explorations/review1.md` follow the
-TODOs and write your first review. In the `_explorations/review2.md` follow the TODOs
+ and write your first review. In the `_explorations/review2.md` follow the TODOs
 and write your second review.
 
-- TODO: submit your changes to GitHub
+- : submit your changes to GitHub
   - See below for `How to push your work onto GitHub`
 
 ## What to do after the reviews are written
@@ -90,7 +90,7 @@ different sources of data contributing to the analytics automatic dashboards.
 If you were a real restaurant owner, explain how this information could help
 you improve your business and why you came to your conclusions.
 
-- TODO: submit your changes to GitHub
+- : submit your changes to GitHub
   - See below for `How to push your work onto GitHub`
 
 ## How to push your work onto GitHub
