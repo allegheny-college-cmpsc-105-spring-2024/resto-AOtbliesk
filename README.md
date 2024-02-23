@@ -27,7 +27,7 @@ Summary of . Details are below
 1. : Clone your repo using git, and open the project in Spyder
    following steps from last lab
 2. : Add analytics to the site
-3. TODO: Submit work to GitHub using git
+3. : Submit work to GitHub using git
 4. : Update this website with content!
 5. : Submit work to GitHub using git
 6. : Review your colleagues' restaurants/sports sites and write two short reviews
@@ -58,14 +58,14 @@ This website is for a restaurant that you would like to make or attend.
 Come up with a concept for your restaurant. The concept does not have to be
 realistic, but keep in mind that this website is viewable online.
 
-- TODO: fill out the `index.md` with a description of the concept of your restaurant
+- : fill out the `index.md` with a description of the concept of your restaurant
   - `index.md` will become the home page of the website automatically, so include
     information that you think belongs on the home page.
-- TODO: fill out the `menu.md` with at least one menu item and one photo
+- : fill out the `menu.md` with at least one menu item and one photo
   - `menu.md` will automatically be linked in the website header for easy access.
-- TODO: fill out the `contact.md` with fake contact information for your restaurant
+- : fill out the `contact.md` with fake contact information for your restaurant
   - `contact.md` will automatically be linked in the website header for easy access.
-- TODO: submit your changes to GitHub
+- : submit your changes to GitHub
   - See below for `How to push your work onto GitHub`
 
 ## How to review another site
@@ -73,7 +73,7 @@ realistic, but keep in mind that this website is viewable online.
 After Monday the 19th, look for `assigned review` document in Discord.
 There you will find the websites that you need to review. Look at the sites and pretend
 that you have eaten at that restaurant. In the `_explorations/review1.md` follow the
- and write your first review. In the `_explorations/review2.md` follow the TODOs
+ and write your first review. In the `_explorations/review2.md` follow the 
 and write your second review.
 
 - : submit your changes to GitHub
