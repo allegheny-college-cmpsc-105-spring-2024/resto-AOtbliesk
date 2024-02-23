@@ -1,9 +1,9 @@
 ---
 layout: post
-# TODO: update the title inside the quotes to suit your restaurant review needs
+# : update the title inside the quotes to suit your restaurant review needs
 title: "rev 2"
 permalink: explorations/review2
 nav: true
 ---
 
-"iScream exceeded all my expectations! As a self-proclaimed ice cream connoisseur, I'm always on the hunt for the next big thing in frozen desserts, and let me tell you, iScream delivers in spades. The ambiance is charming and cozy, making it the perfect spot to indulge in a guilty pleasure or two. What truly sets them apart, though, is the quality of their ingredients. You can taste the difference with each spoonful – the creamy texture, the intense flavors, the perfect balance of sweetness. I particularly enjoyed their seasonal specials; the pumpkin spice flavor was a revelation! And don't even get me started on their handmade waffle cones – absolute perfection. Whether you're craving a classic scoop or feeling adventurous, iScream has something for everyone. Trust me, you won't be disappointed!" - Gideon DeViller
+"Stepping into iScream is like entering a world of frozen wonder. Rory and Nia have truly created a masterpiece of an ice cream shop. From the moment you walk in, you're greeted with the sweet aroma of freshly made waffle cones and the sight of colorful, creamy delights beckoning from behind the glass counter. The selection of flavors is simply astounding – from classic favorites like cookies and cream to exotic creations like mango habanero. On my visit, I opted for a double scoop of salted caramel and strawberry cheesecake, and let me tell you, it was pure bliss in a cone. The ice cream was so rich and decadent, with just the right balance of sweetness and flavor. And the texture? Creamy perfection. But it's not just the ice cream that makes iScream special; it's the entire experience. Rory and Nia have created a warm and inviting atmosphere where you feel like part of the family from the moment you walk in. The staff are always friendly and eager to help, offering samples and recommendations with a smile. Whether you're a first-time visitor or a regular patron, iScream is guaranteed to delight your taste buds and lift your spirits. Trust me, you won't be disappointed!"
