@@ -29,6 +29,4 @@ Despite its growth and success, iScream has remained true to its roots, maintain
 > [review 1](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Faarisc/explorations/review2)
 
 
-<https://github.com/allegheny-college-cmpsc-105-spring-2024/resto-AOtbliesk/blob/main/_explorations/review2.md>
-
-
+> [review 2](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-CadeMoffatt/explorations/review2)
