@@ -26,7 +26,7 @@ Despite its growth and success, iScream has remained true to its roots, maintain
 ## Reviews
 
 
-> <[https://github.com/allegheny-college-cmpsc-105-spring-2024/resto-AOtbliesk/blob/main/_explorations/review1.md>](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Elizabeth-Teufel/explorations/review1)>
+> [review 1](<[https://github.com/allegheny-college-cmpsc-105-spring-2024/resto-AOtbliesk/blob/main/_explorations/review1.md>](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Elizabeth-Teufel/explorations/review1)>)
 
 
 <https://github.com/allegheny-college-cmpsc-105-spring-2024/resto-AOtbliesk/blob/main/_explorations/review2.md>
