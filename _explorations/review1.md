@@ -14,4 +14,4 @@ What sets Take It or Leave It Bakery apart is its dedication to providing the be
 Whether you're taking your treats to enjoy on the go or settling in to savor them in the welcoming atmosphere of the bakery, every bite is sure to be a moment of pure delight. Welcome to Take It or Leave It Bakery, where each choice is a culinary adventure waiting to be enjoyed.
 
 
-<https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Elizabeth-Teufel/menu>
+[visit it](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Elizabeth-Teufel/menu)
