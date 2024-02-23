@@ -12,3 +12,5 @@ Nestled in the heart of the culinary scene, Fusion Flavors offers a truly unique
 What sets Fusion Flavors apart is not just its culinary innovation but also its commitment to sustainability and community engagement. By sourcing the finest local ingredients and embracing eco-friendly practices, they not only deliver exceptional food but also make a positive impact on the environment.
 
 With visually stunning presentations and mouthwatering flavors, Fusion Flavors invites diners on a gastronomic journey like no other. Whether you're a seasoned foodie or simply looking to expand your palate, this culinary gem promises to delight and inspire. For a dining experience that celebrates creativity, diversity, and sustainability, look no further than Fusion Flavors.
+
+<https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Faarisc/>
