@@ -13,4 +13,4 @@ What sets Fusion Flavors apart is not just its culinary innovation but also its 
 
 With visually stunning presentations and mouthwatering flavors, Fusion Flavors invites diners on a gastronomic journey like no other. Whether you're a seasoned foodie or simply looking to expand your palate, this culinary gem promises to delight and inspire. For a dining experience that celebrates creativity, diversity, and sustainability, look no further than Fusion Flavors.
 
-<https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Faarisc/>
+[visit us](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Faarisc/)
