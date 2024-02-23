@@ -7,5 +7,5 @@ nav: true
 Apparently, my ice cream shop went viral - it is popular in Arab Emirates now!
 
 
-![lettuce](./assets/images/screenshot.png)
+![lettuce](./assets/images/screenshot.png){:width="200"}
 
