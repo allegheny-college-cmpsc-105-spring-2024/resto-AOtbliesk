@@ -9,13 +9,28 @@ nav: true
 
 this is the menu
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
 
-### menu item 1
+#### Chocolate ice cream
 
-#### lettuce
+- price: $10
 
-- price: $100
+![lettuce](assets/images/chocolate.jpg){:width="200"}
 
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+
+#### Strawberry ice cream
+
+- price: $10
+
+![lettuce](assets/images/strawberry.jpg){:width="200"}
+
+#### Vanilla ice cream
+
+- price: $10
+
+![lettuce](assets/images/vanilla.jpeg){:width="200"}
+
+#### Mango ice cream
+
+- price: $10
+
+![lettuce](assets/images/mango.jpeg){:width="200"}
